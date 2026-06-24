@@ -1,5 +1,4 @@
-# Coursera-Test
-Coursera Test Repository
+
 <!Doctype html>
 <html>
   <head>
